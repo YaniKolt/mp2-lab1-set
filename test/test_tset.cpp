@@ -2,6 +2,10 @@
 
 #include <gtest.h>
 
+TEST(MathTest, TwoPlusTwoEqualsFour) {
+	EXPECT_EQ(2 + 2, 4);
+}
+
 TEST(TSet, can_get_max_power_set)
 {
   const int size = 5;
