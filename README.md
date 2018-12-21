@@ -1,6 +1,6 @@
 # Методы программирования 2: Множества на основе битовых полей
 
-[![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-set.svg)][travis]
+[![Build Status](https://travis-ci.org/YaniKolt/mp2-lab1-set.svg?branch=master)](https://travis-ci.org/YaniKolt/mp2-lab1-set)[travis]
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
 
 <!-- TODO
